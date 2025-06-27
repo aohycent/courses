@@ -63,4 +63,4 @@ Ensure your configuration also handles IPv6 DNS if needed.
 Configure your firewall (e.g., ufw) to allow DNS traffic (ports 53 UDP and TCP) if you are running a local DNS server. 
 
 *This video demonstrates how to set up a DNS server on Ubuntu:*
-[video]('https://www.youtube.com/watch?v=RMCw7NguaNw&t=1298')
+1. [How to set up a DNS server on Ubuntu](https://www.youtube.com/watch?v=RMCw7NguaNw&t=1298)
