@@ -13,7 +13,7 @@ For the sake of record keeping, I decided to document some topics I embarked on 
 <ol>
     <li>
         <details>
-        <summary><a href="managements/readme.md">Server Managements</a></summary>
+        <summary><a href="./managements/README.md">Server Managements</a></summary>
         <ol>
          <li>
          <details>
