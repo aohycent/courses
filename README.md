@@ -8,20 +8,26 @@ For the sake of record keeping, I decided to document some topics I embarked on 
 
 ## Table of contents
 
-- Management 
-    - Server Managements
-        - VPS
-            - Operating Systems
-            - Networking
-            - Security
-            - Hardware and Software 
-            - Trouble Shooting
-            - Automation and Scripting
-            - Applaudable Skills
-- Programs
-- Services
-- Number System
-- Ideology and Philosophies 
+<details>
+<summary>Management<summary>
+<ol>
+    <li>
+        <a href="managements/readme.md">Server Managements</a>
+        <details>
+        <summary>VPS</summary>
+        <ol>
+            <li>Operating Systems</li>
+            <li>Networking</li>
+            <li>Security</li>
+            <li>Hardware and Software</li>
+            <li>Trouble Shooting</li>
+            <li>Automation and Scripting</li>
+            <li>Applaudable Skills</li>
+        </ol>
+        </details>
+    </li>
+</ol>
+</details>
 
 ## Quick links
 
