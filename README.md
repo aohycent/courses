@@ -12,10 +12,13 @@ For the sake of record keeping, I decided to document some topics I embarked on 
 <summary>Management<summary>
 <ol>
     <li>
-        <a href="managements/readme.md">Server Managements</a>
         <details>
-        <summary>VPS</summary>
+        <summary><a href="managements/readme.md">Server Managements</a></summary>
         <ol>
+         <li>
+         <details>
+          <summary>VPS</summary>
+          <ol>
             <li>Operating Systems</li>
             <li>Networking</li>
             <li>Security</li>
@@ -23,6 +26,9 @@ For the sake of record keeping, I decided to document some topics I embarked on 
             <li>Trouble Shooting</li>
             <li>Automation and Scripting</li>
             <li>Applaudable Skills</li>
+          </ol>
+         </details>
+         </li>
         </ol>
         </details>
     </li>
