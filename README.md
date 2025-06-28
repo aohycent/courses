@@ -11,8 +11,8 @@ For the sake of record keeping, I decided to document some topics I embarked on 
 <details>
 <summary>Management<summary>
 <ol>
-    <details>
-        <li>
+    <li>
+        <details>
         <summary><a href="managements/readme.md">Server Managements</a></summary>
         <ol>
          <li>
@@ -30,8 +30,8 @@ For the sake of record keeping, I decided to document some topics I embarked on 
          </details>
          </li>
         </ol>
-        </li>
-    </details>
+        </details>
+    </li>
 </ol>
 </details>
 
